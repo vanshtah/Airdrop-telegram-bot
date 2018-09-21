@@ -1,0 +1,22 @@
+{
+  "name": "airdrop-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "vansh tah",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.0.4",
+    "mysql": "^2.16.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.87.0",
+    "s": "^0.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
